@@ -1,2 +1,2 @@
-# paranoidblackman.com
+# apriorist.com
 Deployed by Vercel
